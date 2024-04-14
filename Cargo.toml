@@ -21,10 +21,10 @@ crate-type = ["lib"]
 required-features = []
 
 [dependencies]
-bytemuck = "=1.14.0"
-thiserror = "=1.0.38"
-num-derive = "=0.3.3"
-num-traits = "=0.2.15"
+bytemuck = "1.14.0"
+thiserror = "1.0.58"
+num-derive = "0.3.3"
+num-traits = "0.2.18"
 
 [dev-dependencies]
 rand_distr = "0.4.3"
